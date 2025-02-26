@@ -14,7 +14,7 @@ st.markdown(
         .block-container {
             padding: 3rem 2rem;
             border-radius: 12px;
-            background-color: #E3D2C3;
+            background-color: #A9B5DF;
             box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
         }
         h1, h2, h3, h4, h5, h6 {
